@@ -17,6 +17,7 @@ namespace Selenium2
             {
                 public static string Username = "mila";
                 public static string Password = "123";
+                public static string Empty = "";
             }
         }
 
